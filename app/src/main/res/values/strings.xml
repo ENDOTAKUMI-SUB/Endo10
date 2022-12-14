@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">10章課題：K020C1094</string>
+    <string name="shop_name">ゲームショップ</string>
+    <string name="item_name">名前：</string>
+    <string name="item_price">価格：</string>
+    <string name="save">保存</string>
+    <string name="shop_activity">ショップ画面へ</string>
+    <string name="config_activity">コンフィグ画面へ</string>
+    <string name="shop_config">ゲームショップのアイテム設定</string>
+    <string name="tv_menu_unit">円</string>
+    <string name="toast_err1">整数値を入力してください</string>
+    <string name="toast_err2">入力してください</string>
+
+</resources>
